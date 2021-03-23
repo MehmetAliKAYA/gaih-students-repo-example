@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 17.11.1992  
+**Course Date:** 26.03.2021  
 **Name:** Mehmet Ali
 **Surname:** KAYA  
 **Email:** 21903024@ogrenci.karatay.edu.tr  
